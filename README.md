@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://pratik0sharma.github.io/"><b>Portfolio ↗</b></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/pratik-sharma-a2100b2a4/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
   <a href="mailto:pratik05csebranch@gmail.com"><b>Email</b></a> &nbsp; / &nbsp;
   <a href="https://leetcode.com/u/PRATIK0_0SHARMA/"><b>LeetCode</b></a> &nbsp; / &nbsp;
